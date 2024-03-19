@@ -1,0 +1,158 @@
+.container
+{
+	background:url("bd.jpg.")no-repeat;
+	background-size:cover;
+	position:absolute;
+	left: 25%;
+	right: 25%;
+}
+.head
+{
+height:auto;
+width: 100%;
+background-color:#6dd5ed;
+color:white;
+white-space:nowrap;
+letter-spacing:5px;
+position: relative;
+bottom:22px;
+}
+.flyer
+{
+font-weight:lighter;
+position: relative;
+bottom:20px;	
+}
+.CORPORATE
+{
+	color:white;
+}
+.one
+{
+	background-color: hotpink;
+	color: hotpink;
+	height:5px;
+}
+.design
+{
+	position:absolute;
+	right:30px;
+	top:85px;
+	width:150px;
+	height:410px;
+	background-color:rgb(255,105,180,0.8);
+	color: white;
+
+}
+
+h6
+{
+	position:absolute;
+	top:35px;
+	right:35px;
+}
+.h1
+{
+	position:absolute;
+	top:10px;
+	right:35px;
+}
+.td
+{
+	background-color: black;
+}
+.back
+{
+	background-color:rgba(135,206,235,0.8);
+	height:70px;
+}
+
+.head2
+{
+font-weight:lighter;
+color:white;
+margin-left: 10px;
+
+}
+.head3
+{
+	font-weight:bolder ;
+	color:whitesmoke;
+	margin-left: 10px;
+	position:relative;
+    bottom:30px;
+}
+img
+{
+position: relative;
+top: 115px;
+}
+.brand
+{
+	position: relative;
+	top:45px;
+}
+.brandtext
+{
+	position:absolute;
+	top:200px;
+	right:20px;
+	font-size:10px;
+}
+.level
+{
+	color: white;
+	margin-left:10px;
+    background-color:rgba(12, 12, 12, 0.7);
+	height:250px;
+	width:230px;
+	color: aliceblue;
+	font-size:small;
+    position: relative;
+	bottom:0px;
+}
+.contactus
+{
+	position: relative;
+	top:20px;
+}
+.contact
+{
+	background-color:rgba(135,206,235,0.8) ;
+	position:absolute;
+	bottom: 0px;
+	right:0px;
+	font-size: small;
+}
+.two
+{
+	position:absolute;
+	bottom:35px;
+}
+.qr
+{
+ position: relative;
+ top: 80px;
+}
+.us
+{
+	position: relative;
+	left:10px;
+}
+.web
+{
+	position:absolute;
+	bottom:30px;
+}
+
+.span
+{
+	font-size:25px;
+	font-weight: bold;
+	position: relative;
+	left:3px;
+}
+.tr
+{
+	
+}
